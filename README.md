@@ -28,6 +28,6 @@ Enhancing skills in cloud computing with a focus on Microsoft Azure.
 
 📫 How to Reach Me
 Email:  [Suraj Patel](patelsuraj1447@gmail.com)
-LinkedIn: [suraj-patel](www.linkedin.com/in/suraj-patel-53a1972b3)
+LinkedIn: [suraj-patel](https://www.linkedin.com/in/suraj-patel-53a1972b3/)
 Feel free to check out my repositories and collaborate on exciting projects! Let's build something amazing together! 🚀
 
