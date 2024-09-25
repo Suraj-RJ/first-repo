@@ -1,4 +1,5 @@
 Hi there 👋, I'm Suraj
+
 Welcome to my GitHub profile! I'm a Full Stack Developer with a strong interest in Cloud Computing, Data Analytics, and AI-driven applications. I am currently working on exciting projects that combine web development, machine learning, and creative content generation.
 
 🔧 Tech Stack
@@ -26,7 +27,7 @@ Developing AI-based horror films for my YouTube channel RJ Devil.
 Enhancing skills in cloud computing with a focus on Microsoft Azure.
 
 📫 How to Reach Me
-Email:  [patelsuraj1447@gmail.com](patelsuraj1447@gmail.com)
-LinkedIn: [www.linkedin.com/in/suraj-patel-53a1972b3](www.linkedin.com/in/suraj-patel-53a1972b3)
+Email:  [Suraj Patel](patelsuraj1447@gmail.com)
+LinkedIn: [suraj-patel](www.linkedin.com/in/suraj-patel-53a1972b3)
 Feel free to check out my repositories and collaborate on exciting projects! Let's build something amazing together! 🚀
 
